@@ -1,0 +1,14 @@
+.DS_Store
+data/.DS_Store
+.Rhistory
+data/00_raw_data
+data/01_processed_data
+data/old
+scripts/old
+.venv/
+scripts/.jupyter/
+scripts/.ipynb_checkpoints/
+scripts/02_EGG_AlphaBeta_Aggregate/
+scripts/03_DataCleaning_Physio_3Min_Aggregate/
+scripts/04_EGG_AlphaBeta_Overtime/
+scripts/05_DataCleaning_Physio_Overtime/
