@@ -1,4 +1,4 @@
-# Analysis for Lim, Schmälzle, & Bente (2017)
+# Analysis for Lim, Schmälzle, & Bente (2026)
 
 Data and analysis code for *Lim, S., Schmälzle, R., & Bente, G. (in press). Examining speaker responses to audience-induced social-evaluative threat via immersive VR and physiological, behavioral, and self-reported measurements. Scientific Reports.* 
 
